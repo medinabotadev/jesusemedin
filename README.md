@@ -1,4 +1,14 @@
-### Hi there 👋
+## Hi there, welcome to my GitHub profile 👋
+## Know about me...:man_pilot: :computer:
+```javascript
+const = jesus_medina {
+        profession: ['Web Developer', 'Commercial Pilot'],
+        code: ['HTML', 'CSS', 'JavaScript', 'PHP'],
+        tools: ['Boostrap', 'jQuery', 'AJAX', 'MySQL'],
+        learning: ['Angular', 'React', 'Vue', 'Node']
+};
+```
+
 
 <!--
 **jesusemedin/jesusemedin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
