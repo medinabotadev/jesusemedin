@@ -3,12 +3,13 @@
 ```javascript
 const = jesus_medina {
         profession: ['Web Developer', 'Commercial Pilot'],
-        code: ['HTML', 'CSS', 'JavaScript', 'PHP'],
+        code: ['HTML', 'CSS', 'JavaScript', 'PHP', 'Dart'],
         tools: ['Boostrap', 'jQuery', 'AJAX', 'MySQL'],
-        learning: ['Angular', 'React', 'Vue', 'Node']
+        learning: ['React', 'Flutter' 'Node.JS']
 };
 ```
-
+## Technologies
+:JavaScript:
 
 <!--
 **jesusemedin/jesusemedin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
