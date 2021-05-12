@@ -2,7 +2,7 @@
 ## Know about me...:man_pilot: :computer:
 ```javascript
 const = jesus_medina {
-        profession: ['Web Developer', 'Commercial Pilot'],
+        profession: ['Mobile Developer', 'Commercial Pilot'],
         code: ['HTML', 'CSS', 'JavaScript', 'PHP', 'Dart'],
         tools: ['Boostrap', 'jQuery', 'AJAX', 'MySQL'],
         learning: ['React', 'Flutter' 'Node.JS']
